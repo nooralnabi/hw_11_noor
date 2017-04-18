@@ -1,0 +1,9 @@
+application* files
+in ruby and rails conntent a files  into following 
+
+1-assets: that contain all css. and js and image
+2-controllers: contain all classes that connect to the models 
+3-helpers:a Module containing set of helper methods. suppose you have a bunch of lines of code which is used many times in your views or controllers
+4-mailers: is specific for email 
+5-models:contain our data base that create inthe app
+6-views: contain all work and interface user 
